@@ -1,0 +1,2 @@
+rootProject.name='C347DemoActionBar'
+include ':app'
